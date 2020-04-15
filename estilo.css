@@ -1,0 +1,27 @@
+.cajaInicial{
+	background-color: aquamarine;
+	border-style:inherit;
+}
+.pruebaBorde{
+	border-style:double;
+	background-color: antiquewhite;
+	margin-left: 0%;
+	border-color: brown;
+}
+.bordeConMargenes{
+	margin-left: auto;
+	border-style:inherit;
+	border-color:#2EDF46;
+	background-color: darkviolet;
+	border-top: 30px;
+	border-bottom: 50px;
+	border-left:50px;
+	border-right: 50px;
+}
+.cajaConTextoCentrado{
+	margin-right: inherit;
+	border-style: dotted;
+	border-color:gold;
+	border-left:50px;
+	border-right: 50px;
+}
